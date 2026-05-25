@@ -1,1 +1,8 @@
-# Tech-Challenge-FIAP-Fase-2---Wine-Quality
+wine-quality-classification/
+│
+├── data/ # Base de dados utilizada
+├── notebooks/ # Notebook com a análise e modelagem
+├── src/ # Scripts auxiliares (pré-processamento ou modelagem)
+├── results/ # Gráficos e métricas dos modelos
+├── requirements.txt # Bibliotecas utilizadas
+└── README.md # Descrição do projeto
