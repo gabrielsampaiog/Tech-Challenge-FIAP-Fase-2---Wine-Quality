@@ -143,7 +143,7 @@ Os outliers foram **mantidos no dataset** pois representam amostras reais de vin
 
 Os boxplots individuais por variável foram gerados para embasar essa análise visual:
 
-![Teor Alcoólico por Qualidade Binária](results/figures/boxplot_alcohol_por_quality_binary.png)
+![Boxplot Alcohol](results/figures/boxplot_alcohol.png)
 ![Boxplot Volatile Acidity](results/figures/boxplot_volatile_acidity.png)
 
 ### 3.4 Correlações com a Variável Alvo
@@ -182,7 +182,7 @@ Correlações de Pearson com `quality_binary`:
 
 Gráficos de dispersão complementares foram gerados para visualizar essas relações:
 
-![Correlação Alcohol vs Quality](results/figures/correlacao_alcohol_quality_regplot.png)
+![Teor Alcoólico por Qualidade Binária](results/figures/boxplot_alcohol_por_quality_binary.png)
 ![Dispersão Alcohol vs Volatile Acidity](results/figures/dispersao_alcohol_vs_acidez.png)
 
 ---
