@@ -375,14 +375,6 @@ Este projeto demonstrou que é possível prever a qualidade de vinhos tintos com
 - **Escopo do dataset:** O dataset contém apenas vinhos tintos, não sendo aplicável diretamente a vinhos brancos ou outros tipos.
 - **Subjetividade da variável alvo:** As notas de qualidade foram atribuídas por especialistas humanos, carregando inerentemente alguma subjetividade e variabilidade.
 
-### Próximos Passos
-
-- Expandir o dataset incluindo também vinhos brancos para um modelo mais abrangente
-- Aplicar otimização de hiperparâmetros com `GridSearchCV` ou `RandomizedSearchCV` para melhorar o desempenho do Random Forest
-- Explorar modelos de maior capacidade como **XGBoost** e **LightGBM**
-- Avaliar a **curva ROC-AUC** para análise mais completa do comportamento do classificador em diferentes limiares de decisão
-- Considerar a criação de novas features (*feature engineering*), como razões entre variáveis (ex.: `alcohol / density`), que podem capturar relações não lineares adicionais
-
 ---
 
 *Relatório gerado com base nos notebooks de análise disponíveis em `notebooks/` e nos resultados salvos em `results/`.*
