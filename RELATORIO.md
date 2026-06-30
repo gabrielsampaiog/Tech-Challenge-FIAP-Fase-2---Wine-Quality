@@ -143,7 +143,6 @@ Os outliers foram **mantidos no dataset** pois representam amostras reais de vin
 
 Os boxplots individuais por variável foram gerados para embasar essa análise visual:
 
-![Boxplot Alcohol](results/figures/boxplot_alcohol.png)
 ![Boxplot Volatile Acidity](results/figures/boxplot_volatile_acidity.png)
 
 ### 3.4 Correlações com a Variável Alvo
